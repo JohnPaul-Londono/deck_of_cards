@@ -1,0 +1,12 @@
+/Users/johnlondono/Desktop/Coding_Dojo/C#/Wk_1_Assign/deck_of_cards/bin/Debug/netcoreapp3.1/deck_of_cards.deps.json
+/Users/johnlondono/Desktop/Coding_Dojo/C#/Wk_1_Assign/deck_of_cards/bin/Debug/netcoreapp3.1/deck_of_cards.runtimeconfig.json
+/Users/johnlondono/Desktop/Coding_Dojo/C#/Wk_1_Assign/deck_of_cards/bin/Debug/netcoreapp3.1/deck_of_cards.runtimeconfig.dev.json
+/Users/johnlondono/Desktop/Coding_Dojo/C#/Wk_1_Assign/deck_of_cards/bin/Debug/netcoreapp3.1/deck_of_cards.dll
+/Users/johnlondono/Desktop/Coding_Dojo/C#/Wk_1_Assign/deck_of_cards/bin/Debug/netcoreapp3.1/deck_of_cards.pdb
+/Users/johnlondono/Desktop/Coding_Dojo/C#/Wk_1_Assign/deck_of_cards/obj/Debug/netcoreapp3.1/deck_of_cards.csprojAssemblyReference.cache
+/Users/johnlondono/Desktop/Coding_Dojo/C#/Wk_1_Assign/deck_of_cards/obj/Debug/netcoreapp3.1/deck_of_cards.AssemblyInfoInputs.cache
+/Users/johnlondono/Desktop/Coding_Dojo/C#/Wk_1_Assign/deck_of_cards/obj/Debug/netcoreapp3.1/deck_of_cards.AssemblyInfo.cs
+/Users/johnlondono/Desktop/Coding_Dojo/C#/Wk_1_Assign/deck_of_cards/obj/Debug/netcoreapp3.1/deck_of_cards.csproj.CoreCompileInputs.cache
+/Users/johnlondono/Desktop/Coding_Dojo/C#/Wk_1_Assign/deck_of_cards/obj/Debug/netcoreapp3.1/deck_of_cards.dll
+/Users/johnlondono/Desktop/Coding_Dojo/C#/Wk_1_Assign/deck_of_cards/obj/Debug/netcoreapp3.1/deck_of_cards.pdb
+/Users/johnlondono/Desktop/Coding_Dojo/C#/Wk_1_Assign/deck_of_cards/obj/Debug/netcoreapp3.1/deck_of_cards.genruntimeconfig.cache
