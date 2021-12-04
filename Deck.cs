@@ -58,9 +58,9 @@ namespace deck_of_cards
             while (idx < newDeck.Count)
             {
                 Card temp = newDeck[idx];
-                Card newIdx = newDeck[rand.Next(0,newDeck.Count)];
-                newDeck[idx] = newIdx;
-                newIdx = temp;
+                int newIdx = rand.Next(0,newDeck.Count);
+                newDeck[idx] = newDeck[newIdx];
+                newDeck[newIdx] = temp;
                 idx++;
             }
             // foreach(Card card in newDeck)

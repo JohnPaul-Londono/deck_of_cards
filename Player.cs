@@ -13,15 +13,13 @@ namespace deck_of_cards
             Name = name;
         }
 
-        public Card Draw(int num)
+        public Card Draw(Deck d, int num)
         {
             Console.WriteLine($"{Name} drew {num} cards from the deck.");
-            Deck a = new Deck();
             Card card = null;
-            a.Shuffle();
             for(int i = 1; i <= num; i++)
             {
-                card = a.Deal();
+                card = d.Deal();
                 Hand.Add(card);
                 Console.WriteLine($"{Name} drew the {card.cardVal} of {card.Suit} and added it to their hand.{card.numVal}");
             }

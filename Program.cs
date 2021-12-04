@@ -6,11 +6,12 @@ namespace deck_of_cards
     {
         static void Main(string[] args)
         {
-            
-            Player Bumi = new Player("Bumi");
-            Bumi.Draw(2);
-
             Deck newdeck = new Deck();
+            newdeck.Shuffle();
+            Player Bumi = new Player("Bumi");
+            Bumi.Draw(newdeck, 5);
+
+            
 
             Bumi.Discard(1);
 
